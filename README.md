@@ -10,7 +10,7 @@ A restful api written in python Django, implements basic CRUD api interface.
    ```
 4. `python manage.py runserver`
 5. A default data set has been created for you,
-   go to [localhost:8000/admin](localhost:8000/admin),
+   go to [localhost:8000/admin](http://localhost:8000/admin) ,
    log in with 
    ```
       username: john
